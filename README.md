@@ -253,6 +253,12 @@ Utilizando `rqt_graph` podemos visualizar el gráfo de ROS activo con nuestro no
 
 ![graph](https://github.com/jptejeirol/Robotica_Lab_3/assets/164267794/ea660fcd-8ceb-4f82-be7f-d1643021a92e)
 
+### Prueba de funcionamiento:
+
+https://github.com/jptejeirol/Robotica_Lab_3/assets/164267794/4291d80e-6d4a-441e-98be-32059caeb1f2
+
+
+
 
 
 
